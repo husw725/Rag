@@ -1,0 +1,12 @@
+
+# torch
+langchain
+tqdm
+html2text
+feedparser
+paddlepaddle
+PyMuPDF==1.21.1
+paddleocr>=2.0.1 #success on python 3.9.16
+nltk
+unstructured
+sentence-transformers
